@@ -20,7 +20,7 @@ I don’t just code—I **craft experiences**. From automating boring stuff to w
 
 ## 🎵 Life Beyond the Keyboard  
 When I’m not debugging, I’m:  
-- 🎹 Lost in melodies and musical experiments on instruments  
+- 🎹 Lost in melodies and musical experiments on instruments
 - 🎸 Jamming, riffing, and mixing soundscapes  
 - 🔊 Exploring the magical overlap of **music + tech**  
 
@@ -49,8 +49,7 @@ Every day’s a playground—I’m always tinkering with:
 ---
 
 ## 📫 Let’s Connect  
-Check out my projects, drop a message, or just say hi—  
-I’m always up for a cool conversation or collab!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-garg-a96609325)  
 
 ---
 
